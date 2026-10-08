@@ -44,7 +44,7 @@ function App() {
   )
 
   return (
-    <div className="bg-pink-400 flex ***** flex-col justify-center items-center h-screen">
+    <div className="bg-pink-400 flex flex-col justify-center items-center h-screen">
 
       <h1 className="mb-5 text-4xl font-bold">EXPENSE TRACKER</h1>
 
